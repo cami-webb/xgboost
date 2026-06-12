@@ -31,12 +31,6 @@ targets:
       - srad
       - vp
     intervals:
-      - name: A-B
-        start_year: 2006
-        end_year:   2014
-      - name: B-C
-        start_year: 2014
-        end_year:   2021
       - name: A-C
         start_year: 2006
         end_year:   2021
